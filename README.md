@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am an experienced web developer with over 10 years of experience. I specialize in creating custom websites to meet specific client needs. If you are looking for an experienced web developer to create a custom website for you or your business, please do not hesitate to contact me. I'd love to help you with your project!
+Hi there! My name is Vincent, I'm a FullStack WEB Developer and I'm passionate about programming. I've been working on a lot of projects in web development.
 
 
 ## 🌐 Socials:
